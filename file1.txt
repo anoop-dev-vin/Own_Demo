@@ -1,1 +1,7 @@
 without git and github 1
+
+Now the code is sent to the github website.
+
+I have done only one commit in this repo.
+
+Now I am making changes in the github.
